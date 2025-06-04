@@ -15,7 +15,7 @@ A live Markdown previewer built with Vite React and Tailwind CSS.
 
 ### Screenshot
 
-![App Screenshot](/screenshot.png)
+![App Screenshot](/public/screenshot.png)
 
 ### Links
 
